@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\BezaoWallet.Api\BezaoWallet.Entities\bin\Debug\net5.0\BezaoWallet.Entities.deps.json
+C:\Users\USER\source\repos\BezaoWallet.Api\BezaoWallet.Entities\bin\Debug\net5.0\BezaoWallet.Entities.dll
+C:\Users\USER\source\repos\BezaoWallet.Api\BezaoWallet.Entities\bin\Debug\net5.0\ref\BezaoWallet.Entities.dll
+C:\Users\USER\source\repos\BezaoWallet.Api\BezaoWallet.Entities\bin\Debug\net5.0\BezaoWallet.Entities.pdb
+C:\Users\USER\source\repos\BezaoWallet.Api\BezaoWallet.Entities\obj\Debug\net5.0\BezaoWallet.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\BezaoWallet.Api\BezaoWallet.Entities\obj\Debug\net5.0\BezaoWallet.Entities.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\BezaoWallet.Api\BezaoWallet.Entities\obj\Debug\net5.0\BezaoWallet.Entities.AssemblyInfo.cs
+C:\Users\USER\source\repos\BezaoWallet.Api\BezaoWallet.Entities\obj\Debug\net5.0\BezaoWallet.Entities.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\BezaoWallet.Api\BezaoWallet.Entities\obj\Debug\net5.0\BezaoWallet.Entities.dll
+C:\Users\USER\source\repos\BezaoWallet.Api\BezaoWallet.Entities\obj\Debug\net5.0\ref\BezaoWallet.Entities.dll
+C:\Users\USER\source\repos\BezaoWallet.Api\BezaoWallet.Entities\obj\Debug\net5.0\BezaoWallet.Entities.pdb
+C:\Users\USER\source\repos\BezaoWallet.Api\BezaoWallet.Entities\obj\Debug\net5.0\BezaoWallet.Entities.csproj.AssemblyReference.cache

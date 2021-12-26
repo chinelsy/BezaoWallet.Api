@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BezaoWallet.Api", "BezaoWallet.Api\BezaoWallet.Api.csproj", "{C59A8AA0-86A2-45E1-A4C1-1765FCFC3574}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BezaoWallet.Entities", "BezaoWallet.Entities\BezaoWallet.Entities.csproj", "{EFBB9E36-23E9-4C16-ABBF-D7AE1F08BECC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BezaoWallet.DataLayer", "BezaoWallet.DataLayer\BezaoWallet.DataLayer.csproj", "{A1EFB813-50BD-4E3F-84BD-6746D528B78C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BezaoWallet.Service", "BezaoWallet.Service\BezaoWallet.Service.csproj", "{F5BB4ECE-DFF2-4517-A9BE-BB540AB5FAC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BezaoWallet.LoggerService", "BezaoWallet.LoggerService\BezaoWallet.LoggerService.csproj", "{060CC6EB-3965-415C-BBA3-ACAF2AE9785D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C59A8AA0-86A2-45E1-A4C1-1765FCFC3574}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C59A8AA0-86A2-45E1-A4C1-1765FCFC3574}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C59A8AA0-86A2-45E1-A4C1-1765FCFC3574}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C59A8AA0-86A2-45E1-A4C1-1765FCFC3574}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFBB9E36-23E9-4C16-ABBF-D7AE1F08BECC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFBB9E36-23E9-4C16-ABBF-D7AE1F08BECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFBB9E36-23E9-4C16-ABBF-D7AE1F08BECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFBB9E36-23E9-4C16-ABBF-D7AE1F08BECC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1EFB813-50BD-4E3F-84BD-6746D528B78C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1EFB813-50BD-4E3F-84BD-6746D528B78C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1EFB813-50BD-4E3F-84BD-6746D528B78C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1EFB813-50BD-4E3F-84BD-6746D528B78C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5BB4ECE-DFF2-4517-A9BE-BB540AB5FAC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5BB4ECE-DFF2-4517-A9BE-BB540AB5FAC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5BB4ECE-DFF2-4517-A9BE-BB540AB5FAC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5BB4ECE-DFF2-4517-A9BE-BB540AB5FAC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{060CC6EB-3965-415C-BBA3-ACAF2AE9785D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{060CC6EB-3965-415C-BBA3-ACAF2AE9785D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{060CC6EB-3965-415C-BBA3-ACAF2AE9785D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{060CC6EB-3965-415C-BBA3-ACAF2AE9785D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33244188-BB5D-4FFE-8EB2-927CCFF376E1}
+	EndGlobalSection
+EndGlobal
